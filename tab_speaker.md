@@ -1,5 +1,4 @@
 ---
----
 title: speakers
 displaytext: Speakers
 layout: null
