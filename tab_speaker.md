@@ -1,7 +1,7 @@
 ---
+layout: col-sidebar
 title: speakers
 displaytext: Speakers
-layout: null
 tab: true
 order: 4
 tags: owasp-SIST
