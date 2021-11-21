@@ -3,7 +3,7 @@ layout: col-sidebar
 title: speakers
 displaytext: Speakers
 tab: true
-order: 4
+order: 2
 tags: owasp-SIST
 
 ---
