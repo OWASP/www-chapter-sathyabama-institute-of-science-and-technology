@@ -1,7 +1,7 @@
 ---
 title: speaker
 displaytext: Speakers
-layout:  null
+layout:  col-sidebar
 tab: true
 order: 1
 tags: OWASP-SIST
