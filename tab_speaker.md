@@ -8,7 +8,7 @@ tags: example-tag
 
 ## Speakers
 
-If you would like to speak in the OWASP Vijayawada Events.Share your profile in the following format to
+If you would like to speak in the OWASP SIST Events. Share your profile in the following format to
 
 **For participation:**
 - [Sayan Pramanik](mailto:)
