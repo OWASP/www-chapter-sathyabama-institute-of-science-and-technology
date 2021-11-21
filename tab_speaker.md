@@ -1,15 +1,16 @@
 ---
+---
 title: speakers
 displaytext: Speakers
 layout: null
 tab: true
 order: 4
-tags: owasp-vijayawada
+tags: owasp-SIST
 
 ---
 ## Speakers
 
-If you would like to speak in the OWASP Vijayawada Events.Share your profile in the following format to
+If you would like to speak in the OWASP SIST Events. Share your profile in the following format to
 
 **For participation:**
 - [Sayan Pramanik](mailto:sayanpramanik2012@gmail.com)
