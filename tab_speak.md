@@ -11,16 +11,16 @@ tags: owasp-SIST
 
 If you would like to speak in the OWASP SIST Events.Share your profile in the following format to
 
-**For participation:**
+For participation:
 - [Hasan Firnas](mailto:)
 - [Sayan Pramanik](mailto:sayanpramanik2012@gmail.com)
 
-**For Queries:**
+For Queries:
 - Dhamodaran Sambandan
 - Albert Mayan John
 
 
-**Email Format :**
+Email Format :
 
 - Speaker name
 - Job Role
