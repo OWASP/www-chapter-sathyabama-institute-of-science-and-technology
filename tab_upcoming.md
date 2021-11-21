@@ -2,8 +2,8 @@
 title: upcoming
 displaytext: Upcoming Events
 layout: col-sidebar
-tab: true
-order: 1
+tab: false
+order: 2
 tags: owasp-SIST
 
 ---
