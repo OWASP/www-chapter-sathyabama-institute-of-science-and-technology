@@ -1,10 +1,10 @@
 ---
-title: upcomingevents
+title: upcoming
 displaytext: Upcoming Events
 layout: null
 tab: true
 order: 2
-tags: owasp-vijayawada
+tags: owasp-SIST
 
 ---
 ```Stay in touch with us to get updates about upcoming meetings!!!```
