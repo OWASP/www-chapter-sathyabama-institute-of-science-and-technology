@@ -3,7 +3,7 @@ title: ucoming
 displaytext: Ucoming Events
 layout: col-sidebar
 tab: true
-order: 2
+order: 20
 tags: owasp-SIST
 
 ---
