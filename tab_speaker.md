@@ -3,7 +3,7 @@ title: speaker
 displaytext: Speakers
 layout:  null
 tab: true
-order: 3
+order: 2
 tags: OWASP-SIST
 ---
 
