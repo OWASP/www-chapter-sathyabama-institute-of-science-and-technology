@@ -1,11 +1,11 @@
 ---
 
 layout: col-sidebar
-title: OWASP Sathyabama Institute of Science and Technology
+title: OWASP Sathyabama Institute of Science and Technology - Student Chapter
 tags: owasp-SIST
 region: Asia
 country: India
-meetup-group: owasp-SIST
+meetup-group: 
 
 ---
 
