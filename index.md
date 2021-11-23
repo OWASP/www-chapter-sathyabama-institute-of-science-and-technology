@@ -1,6 +1,7 @@
 ---
 
 layout: col-sidebar
+displaytext: Home
 title: OWASP SIST
 tags: owasp-SIST
 region: Asia
