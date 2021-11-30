@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 displaytext: Home
-title: OWASP SIST
+title: OWASP - Sathyabama Student Chapter
 tags: owasp-SIST
 region: Asia
 country: India
