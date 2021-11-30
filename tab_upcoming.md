@@ -11,6 +11,6 @@ tags: owasp-SIST
 
 ## Upcoming Events
 
-| Title | Agenda | Location/URL | Date & Time |
-| --- | --- | --- | --- |
-|     |     |     |     |
+| Title | Location/URL | Date & Time |
+| Cyber Security | Online | 2nd Dec 2021 & 11:30pm|
+|     |     |     |
