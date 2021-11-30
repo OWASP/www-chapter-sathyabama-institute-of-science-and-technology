@@ -7,10 +7,8 @@ order: 0
 tags: owasp-SIST
 
 ---
-![Logo](https://raw.githubusercontent.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/main/assets/images/Cyber%20security.jpeg)
 
 ## Upcoming Events
 
-| Title | Location/URL | Date & Time |
-| Cyber Security | Online | 2nd Dec 2021 & 11:30pm|
-|     |     |     |
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/main/assets/images/Cyber%20security.jpeg" width="500" height="500"> <br>
+
