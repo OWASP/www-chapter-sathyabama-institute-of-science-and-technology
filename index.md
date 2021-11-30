@@ -11,7 +11,7 @@ meetup-group:
 ---
 
 ## Welcome
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGO7MOdPFULY2V2IVuj-rIQmfNkAjwJ5ioA&usqp=CAU)
+![Logo](https://raw.githubusercontent.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/main/assets/images/Sathyabama-Logo.png)
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
