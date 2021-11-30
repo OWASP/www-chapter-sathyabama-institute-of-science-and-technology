@@ -7,7 +7,7 @@ order: 0
 tags: owasp-SIST
 
 ---
-```Stay in touch with us to get updates about upcoming meetings!!!```
+https://raw.githubusercontent.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/main/assets/images/Cyber%20security.jpeg
 
 ## Upcoming Events
 
