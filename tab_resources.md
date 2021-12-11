@@ -12,6 +12,7 @@ tags: owasp-SIST
 
 
 **The webinar recordings and resources will be shared here:** 
-[Inauguration event-2nd Dec](https://youtu.be/yTlBjN9dxzc)
+
+-[Inauguration event-2nd Dec](https://youtu.be/yTlBjN9dxzc)
 
 
