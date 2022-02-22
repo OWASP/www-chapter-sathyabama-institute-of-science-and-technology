@@ -9,6 +9,10 @@ tags: owasp-SIST
 ---
 
 ## Upcoming Events
+<br>DATE: 25th and 26th Feb, 2022
+TIME: 9:30AM to 3:30PM<br>
+<img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/d1fb40fc-7cb1-45e9-88ec-01a753fcb5a2.jpg" width="500" height="600"> 
+
 
 ## Past Events
 
