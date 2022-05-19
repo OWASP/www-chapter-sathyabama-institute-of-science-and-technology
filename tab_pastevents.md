@@ -19,6 +19,16 @@ tags: owasp-SIST
 
 ___
 
+**Event Speaker : Mr. Abisheik M**<br>
+**Event Date : 25/03/2021 [OFFLINE EVENT]** <br>
+**Speaker's LinkedIn: [abisheik-m](https://www.linkedin.com/in/abisheik-m-86352218b/).**
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/Abisheik%20M/Abisheik%20M-Poster.jpeg?raw=true" width="500" height="600"> 
+</p>
+
+___
+
 **Event Speaker : Mr. Sriram Kesavan**<br>
 **Event Date : 25/02/2022 - 26/02/2022 [OFFLINE EVENT]** <br>
 **Speaker's LinkedIn: [Sriram Kesavan](https://www.linkedin.com/in/sriramkesavan/).**
