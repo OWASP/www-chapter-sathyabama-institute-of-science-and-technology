@@ -1,3 +1,13 @@
+---
+title: Past_Events
+displaytext: Past Events
+layout: null
+tab: true
+order: 4
+tags: owasp-SIST
+
+---
+
 **Event Speaker : Mr. Kishore Hariram**<br>
 **Event Date : 02/12/2021 [ONLINE EVENT]** <br>
 **Speaker's LinkedIn: [kishorehariram](https://www.linkedin.com/in/kishorehariram/).**
