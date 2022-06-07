@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 displaytext: Home
-title: OWASP Sathyabama Student Chapter
+title: OWASP Sathyabama Institute of Science and Technology - Student Chapter
 tags: owasp-SIST
 region: Asia
 country: India
