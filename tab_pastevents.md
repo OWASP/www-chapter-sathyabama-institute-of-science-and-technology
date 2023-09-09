@@ -9,6 +9,30 @@ tags: owasp-SIST
 ---
 
 
+**Event Title : Art of Hacking (series #2)**<br>
+**Event Speaker : Mr. Sriram Kesavan**<br>
+**Event Venue : TmT. Soundrabai Auditorium, Sathyabama Centre for Advanced Studies**<br>
+**Event Date : 30/06/2023 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 12.jpg?raw=true" height="600" width="500"> 
+</p>
+
+___
+
+
+**Event Title : Art of Hacking (series #1)**<br>
+**Event Speaker : Mr. Sriram Kesavan**<br>
+**Event Venue : Machine Vision Lab, II Floor, Society For Computer Security, St.Paul's Block**<br>
+**Event Date : 27/06/2023 & 28/06/2023 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 11.jpg?raw=true" height="600" width="500"> 
+</p>
+
+___
+
+
 **Event Title : Cyber Security 101 - Your First line of Defense**<br>
 **Event Speaker : Ms. Gabriela Sharon R**<br>
 **Event Date : 28/03/2023 [OFFLINE EVENT]** <br>
