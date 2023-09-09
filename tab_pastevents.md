@@ -14,7 +14,7 @@ tags: owasp-SIST
 **Event Date : 22/02/2023 [OFFLINE EVENT]** <br>
 
 <p align="center">
-  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 8.png?raw=true" width="740" height="400" > 
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 8.png?raw=true" width="740" > 
 </p>
 
 ___
