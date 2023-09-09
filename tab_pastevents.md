@@ -8,6 +8,16 @@ tags: owasp-SIST
 
 ---
 
+**Event Title : Diving deep into Cyber Security**<br>
+**Event Speaker : Mr. Sriram Kesavan, Mr. Thaya Govzig**<br>
+**Event Date : 08/07/2022 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 5.jpeg?raw=true" width="500" height="600"> 
+</p>
+
+___
+
 
 **Event Speaker : Mr. Jones Martin**<br>
 **Event Date : 18/05/2022 [OFFLINE EVENT]** <br>
