@@ -9,6 +9,17 @@ tags: owasp-SIST
 ---
 
 
+**Event Title : Cyber Security 101 - Your First line of Defense**<br>
+**Event Speaker : Ms. Gabriela Sharon R**<br>
+**Event Date : 28/03/2023 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 10.jpg?raw=true" height="600" width="500"> 
+</p>
+
+___
+
+
 **Event Title : Cyber Matrix (Capture The Flag & Treasure Hunt)**<br>
 **Venue : New Auditorium, Sathyabama Institute of Science and Technology**<br>
 **Event Date : 17/03/2023 [OFFLINE EVENT]** <br>
