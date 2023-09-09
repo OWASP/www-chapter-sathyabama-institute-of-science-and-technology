@@ -9,6 +9,18 @@ tags: owasp-SIST
 ---
 
 
+**Event Title : Exploring the Skies - Unveiling the Potential of Drones**<br>
+**Event Speaker : Mr. Pranav S. Rao, Director, Multi Dimensional Technologies (OPC) Pvt. Ltd.**<br>
+**Event Venue : Society for Computer Security, St.Paul's Block**<br>
+**Event Date : 14/07/2023 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 13.png?raw=true" width="740"> 
+</p>
+
+___
+
+
 **Event Title : Art of Hacking (series #2)**<br>
 **Event Speaker : Mr. Sriram Kesavan**<br>
 **Event Venue : TmT. Soundrabai Auditorium, Sathyabama Centre for Advanced Studies**<br>
