@@ -7,6 +7,8 @@ order: 5
 tags: owasp-SIST
 
 ---
+
+
 **Event Title : SIST CTF - Cyber Security Gamified (Capture The Flag)**<br>
 **Guest of Honour : Mr. Vengatesh Nagarajan, Senior Security Analyst, Cyber Security Works**<br>
 **Event Date : 05/09/2023 & 06/09/2023 [OFFLINE EVENT]** <br>
