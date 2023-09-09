@@ -9,6 +9,17 @@ tags: owasp-SIST
 ---
 
 
+**Event Title : Cyber Matrix (Capture The Flag & Treasure Hunt)**<br>
+**Venue : New Auditorium, Sathyabama Institute of Science and Technology**<br>
+**Event Date : 17/03/2023 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 9.jpg?raw=true" width="740" > 
+</p>
+
+___
+
+
 **Event Title : SIST CTF 2.0 - Cyber Security Gamified (Capture The Flag)**<br>
 **Venue : Sathyabama Institute of Science and Technology**<br>
 **Event Date : 22/02/2023 [OFFLINE EVENT]** <br>
