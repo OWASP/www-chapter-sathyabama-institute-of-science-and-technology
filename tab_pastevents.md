@@ -7,6 +7,16 @@ order: 5
 tags: owasp-SIST
 
 ---
+**Event Title : Careers in Space Research**<br>
+**Event Speaker : Mr. A. Kishore, Senior propellant Scientist, Canadian Space Agency**<br>
+**Event Venue : AI Super Computing Lab, Sathyabama Centre for Advanced Studies**<br>
+**Event Date : 28/08/2023 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 14.jpg?raw=true" width="500"> 
+</p>
+
+___
 
 
 **Event Title : Exploring the Skies - Unveiling the Potential of Drones**<br>
