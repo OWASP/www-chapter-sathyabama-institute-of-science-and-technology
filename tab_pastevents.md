@@ -14,7 +14,7 @@ tags: owasp-SIST
 **Event Date : 01/12/2022 & 02/12/2022 [OFFLINE EVENT]** <br>
 
 <p align="center">
-  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 7.jpg?raw=true" width="500"> 
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 7.jpg?raw=true" height="600" width="500"> 
 </p>
 
 ___
@@ -25,7 +25,7 @@ ___
 **Event Date : 05/09/2022 & 06/09/2022 [OFFLINE EVENT]** <br>
 
 <p align="center">
-  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 6.jpeg?raw=true" width="400" height="800"> 
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 6.jpeg?raw=true" width="400" height="800" > 
 </p>
 
 ___
