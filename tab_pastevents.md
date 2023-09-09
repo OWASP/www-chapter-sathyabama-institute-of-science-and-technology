@@ -9,6 +9,17 @@ tags: owasp-SIST
 ---
 
 
+**Event Title : SIST CTF 2.0 - Cyber Security Gamified (Capture The Flag)**<br>
+**Venue : Sathyabama Institute of Science and Technology**<br>
+**Event Date : 22/02/2023 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/event 8.png?raw=true" width="740" height="400" > 
+</p>
+
+___
+
+
 **Event Title : Diving deep into Cyber Security (series #2) - First Year Anniversary Celebration**<br>
 **Event Speaker : Mr. Sriram Kesavan, Mr. Thaya Govzig**<br>
 **Event Date : 01/12/2022 & 02/12/2022 [OFFLINE EVENT]** <br>
