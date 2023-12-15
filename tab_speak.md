@@ -10,14 +10,9 @@ tags: owasp-SIST
 
 ### Speakers
 
-If you would like to speak in the OWASP SIST Events. Share your profile in the following format to
+If you wish to speak on the Upcoming OWASP SIST Event, kindly submit your profile following the specified format to
+- [Dhanush](mailto:chella.dhanush@owasp.org)
 
-**For participation:**
-- [Hasan Firnas](mailto:)
-
-**For Queries:**
-- [Dhamodaran Sambandan](mailto:)
-- [Albert Mayan John](mailto:)
 
 **Email Format :**
 
@@ -30,5 +25,9 @@ If you would like to speak in the OWASP SIST Events. Share your profile in the f
 - Speaker Profile
 - Presentation Details
     - Name / Title of the Presentation
-    - Abstract of the presentation
+    - Abstract of the Presentation
     - Presentation time required
+
+**For More Queries Contact:**
+- [Albert Mayan John](mailto:albertmayan.john@owasp.org)
+- [Dhamodaran Sambandan](mailto:dhamodaran.sambandan@owasp.org)
