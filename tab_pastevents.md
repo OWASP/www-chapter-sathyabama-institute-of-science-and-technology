@@ -7,6 +7,21 @@ order: 5
 tags: owasp-SIST
 
 ---
+**Event Title : Career Catalyst**<br>
+**Event Speaker : Mr. Pons Mudivai Arun, Product Leader (IAM), JumpCloud**<br>
+**Event Topic :** With the massive adoption of online resources (Google. ChatGPT), getting instant answers is now easier for businesses. What is challenging is the ability to ask beautiful questions - an ambitious yet actionable question that can shift how we perceive or think about something.
+
+In this session, Pons coached on the critical skills expected from Generation Alpha/Beta engineers based on his experience leading campus interviews and mentoring students for years.<br>
+**Event Venue : Tmt. Soundrabai Auditorium, Sathyabama Centre for Advanced Studies**<br>
+**Event Date : 05/02/2024 [OFFLINE EVENT]** <br>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-sathyabama-institute-of-science-and-technology/blob/main/assets/images/events/Event 15.jpg?raw=true" width="740"> 
+</p>
+
+___
+
+
 **Event Title : Careers in Space Research**<br>
 **Event Speaker : Mr. A. Kishore, Senior propellant Scientist, Canadian Space Agency**<br>
 **Event Venue : AI Super Computing Lab, Sathyabama Centre for Advanced Studies**<br>
